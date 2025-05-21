@@ -34,4 +34,4 @@ Replace the JasperReports JAR files in the `lib/` directory with your preferred 
 
 ## Example
 
-The project includes an example JRXML file (`LocVsEntryVsYearXls.jrxml`). After running the compiler, the generated Jasper file (`LocVsEntryVsYearXls.jasper`) will be in the output directory.
+The project includes an example JRXML file (`example.jrxml`). After running the compiler, the generated Jasper file (`example.jasper`) will be in the output directory.
